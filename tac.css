@@ -1,0 +1,33 @@
+.container {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  background: linear-gradient(to bottom left, #33ccff 0%, green 100%);
+  padding: 100px;
+  margin-left: 25%;
+  margin-right: 40%;
+  width: 500px;
+  height: 500px;
+}
+.square{
+  text-align: center;
+    font-size: 2em;
+}
+.h1:hover{
+color: white;
+
+}
+.h1{
+text-align: center;
+background-color: white ;
+}
+.html{
+  background: linear-gradient(to top left, green 0%, #33ccff 100%);
+  height: 1000px;
+}
+.bot{
+  margin-left: 475px;
+  margin-top: 10px;
+  width: 500px;
+  height: 50px;
+  background:linear-gradient(to bottom , white 0%, black 100%);
+}
